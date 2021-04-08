@@ -1,5 +1,7 @@
 [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)（简单）
 
+此题与主站[153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)题和[154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)题思路相同
+
 #### 解法
 
 二分法搜索
