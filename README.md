@@ -1,4 +1,4 @@
-# Algorithm
+# LeetCode
 
 ```
 记录本人刷题思路和过程
