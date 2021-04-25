@@ -1,4 +1,3 @@
-```Java
 // 第一个大于等于给定值的元素位置
 public int firstMoreThanValue(int arr[], int len, int value)
 {
@@ -22,4 +21,3 @@ public int firstMoreThanValue(int arr[], int len, int value)
 
     return -1;
 }
-```

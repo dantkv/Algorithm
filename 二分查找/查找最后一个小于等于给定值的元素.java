@@ -1,4 +1,3 @@
-```Java
 // 最后一个小于等于给定值的元素位置
 public int lastLessThanValue(int arr[], int len, int value)
 {
@@ -23,4 +22,3 @@ public int lastLessThanValue(int arr[], int len, int value)
 
     return -1;
 }
-```

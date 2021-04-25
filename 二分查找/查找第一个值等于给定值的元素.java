@@ -1,4 +1,3 @@
-```Java
 // 第一个等于给定值的元素位置
 public int firstEqualValue(int arr[], int len, int value)
 {
@@ -25,4 +24,3 @@ public int firstEqualValue(int arr[], int len, int value)
 
     return -1;
 }
-```

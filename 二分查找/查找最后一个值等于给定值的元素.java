@@ -1,4 +1,3 @@
-```Java
 // 最后一个等于给定值的元素位置
 public int lastEqualValue(int arr[], int len, int value)
 {
@@ -26,4 +25,4 @@ public int lastEqualValue(int arr[], int len, int value)
     return -1;
 
 }
-```
+
