@@ -4,7 +4,7 @@
 
 使用切割和拼接函数
 
-```
+```C++
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {
@@ -16,7 +16,7 @@ public:
 ```
 
 不使用拼接函数，那么遍历字符反转，题目限制了长度小于10000
-```
+```C++
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {

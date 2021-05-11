@@ -44,7 +44,7 @@ public:
 ```
 
 递归实现
-```
+```C++
 /**
  * Definition for singly-linked list.
  * struct ListNode {

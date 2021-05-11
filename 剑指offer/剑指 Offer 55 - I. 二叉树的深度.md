@@ -4,9 +4,9 @@
 
 深度优先搜索，比较深度并记录
 
-时间复杂度：遍历所有节点
-空间复杂度：退化为链表时，栈空间记录n个节点
-均为O(n)
+时间复杂度：遍历所有节点    
+空间复杂度：退化为链表时，栈空间记录n个节点    
+均为O(n)    
 
 ```C++
 /**
@@ -45,8 +45,8 @@ class Solution {
     }
 }
 
-作者：jyd
+作者：jyd    
 链接：https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-xian-xu-bia/
-来源：力扣（LeetCode）
+来源：力扣（LeetCode）    
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```

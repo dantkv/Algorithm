@@ -3,7 +3,7 @@
 #### 解法
 
 暴力双层循环找最大值
-```
+```C++
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
@@ -24,11 +24,11 @@ public:
 };
 ```
 
-用[队列最大值](./剑指%20Offer%2059%20-%20II.%20队列的最大值.md)相同思路，维护两个队列模拟入队出队，每次操作返回一次最大值
+用[队列最大值](./剑指%20Offer%2059%20-%20II.%20队列的最大值.md)相同思路，维护两个队列模拟入队出队，每次操作返回一次最大值    
 
 优化：只需要维护一个单调队列即可。
 
-```
+```C++
 class Solution {
     queue<int>q;
     deque<int>dq;

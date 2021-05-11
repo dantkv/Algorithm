@@ -4,7 +4,7 @@
 
 使用字符串输入，拼接即可
 
-```
+```C++
 class Solution {
 public:
     string reverseWords(string s) {
@@ -26,7 +26,7 @@ public:
 ```
 
 从后往前遍历，记录下连续非空字符长度，遇到空串时进行一次拼接
-```
+```C++
 class Solution {
 public:
     string reverseWords(string s) {
